@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "blog"
+  site-url: "https://efmorales.github.io/blog"
+  description: "Blog to experiment, discover and understand LLM's frameworks"
+  repo-branch: main
+  repo-url: "https://github.com/efmorales/blog"
