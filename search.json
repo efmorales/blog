@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "blog/posts/2024-02-27-Blog-Intro/index.html",
+    "href": "blog/posts/2024-02-27-Blog-Intro/index.html",
+    "title": "Lesson 2: Blogging with nbdev",
+    "section": "",
+    "text": "Making a personal blog course using nbdev.",
+    "crumbs": [
+      "blog",
+      "posts",
+      "2024-02-27-Blog-Intro"
+    ]
+  },
+  {
+    "objectID": "blog/posts/2024-02-27-Blog-Intro/index.html#literate-programming",
+    "href": "blog/posts/2024-02-27-Blog-Intro/index.html#literate-programming",
+    "title": "Lesson 2: Blogging with nbdev",
+    "section": "Literate Programming",
+    "text": "Literate Programming\nIn Literate Programming, comments and tests are woven directly into a project’s source code. The original idea was proposed by Donald Knuth in 1984. Having all of pieces together a single, interactive document makes for better, more readable code and a more cohesive project overall.\nThe code, documentation, and tests are all first-class citizens in Literate Programming. This is very different from the typical approach to software where tests and documentation live in a separate set of files.\nIn nbdev, a Jupyter Notebook is the single source of truth for code, documentation, and tests. Instead of managing three independent groups of files, everything is defined and happens in the Notebook. If the Notebook runs, then you know your code will run.",
+    "crumbs": [
+      "blog",
+      "posts",
+      "2024-02-27-Blog-Intro"
+    ]
+  },
+  {
+    "objectID": "blog/posts/2024-02-27-Blog-Intro/index.html#exploratory-programming",
+    "href": "blog/posts/2024-02-27-Blog-Intro/index.html#exploratory-programming",
+    "title": "Lesson 2: Blogging with nbdev",
+    "section": "Exploratory Programming",
+    "text": "Exploratory Programming\nExploratory Programming is an open-ended approach for tackling new problems and unknown domains. It’s very useful at the start of a project, while the scope and requirements are still being fleshed out. And it can highlight different angles on a known, established approach by casting it under a new light.\nNotebooks are both dynamic and interactive which makes them perfect for Exploratory Programming. The barrier for trying new things in a notebook is extremely low. And they’re downright fun!\nThe video below is an incredible talk by Bret Victor about the power of Exploratory Programming, with stunning examples throughout to drive the point home. If these short snippets weren’t enough to sell you on the idea, the talk certainly will.",
+    "crumbs": [
+      "blog",
+      "posts",
+      "2024-02-27-Blog-Intro"
+    ]
+  },
+  {
+    "objectID": "blog/posts/2024-02-27-Blog-Intro/index.html#combining-literate-and-exploratory-programming",
+    "href": "blog/posts/2024-02-27-Blog-Intro/index.html#combining-literate-and-exploratory-programming",
+    "title": "Lesson 2: Blogging with nbdev",
+    "section": "Combining Literate and Exploratory Programming",
+    "text": "Combining Literate and Exploratory Programming\nnbdev combines these two ideas. We covered why this is a powerful combination in the Course Philosophy section of the syllabus. Please take a moment to re-read with the new context from above.\nWith this combo, we can interactively learn about and explore how a piece of code works. We can easily follow any hint of curiosity since iterations are fast and cheap. And we can now develop code in a much more dynamic way than usual.\nThese ideas can be doled out on the fly. For example, at the start of a project we could lean Exploratory to map out the problem space. Then, as the idea matures, we can pivot to Literate to refine our approach.\nAnd the best part is that if anything breaks, we can always restart the Notebook and try again. It’s like clearing out the whiteboard and taking another pass at the problem.\nWe’ve talked a big game about what nbdev can do for writing great software projects. Now, to get back on track, let’s look at how nbdev can turn Notebooks into our future blog posts.",
+    "crumbs": [
+      "blog",
+      "posts",
+      "2024-02-27-Blog-Intro"
+    ]
+  },
+  {
+    "objectID": "blog/posts/2024-02-27-Blog-Intro/index.html#references",
+    "href": "blog/posts/2024-02-27-Blog-Intro/index.html#references",
+    "title": "Lesson 2: Blogging with nbdev",
+    "section": "References",
+    "text": "References\n\nOfficial nbdev tutorial\nBlogging with nbdev",
+    "crumbs": [
+      "blog",
+      "posts",
+      "2024-02-27-Blog-Intro"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Enzo’s blog",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "Enzo's blog"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "Enzo’s blog",
+    "section": "Install",
+    "text": "Install\npip install blog",
+    "crumbs": [
+      "Enzo's blog"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "Enzo’s blog",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "Enzo's blog"
+    ]
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Example Blog",
+    "section": "",
+    "text": "Lesson 2: Blogging with nbdev\n\n\n\n\n\n\nfractal\n\n\npython\n\n\nnbdev\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\nEnzo Morales\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "blog"
+    ]
+  }
+]
