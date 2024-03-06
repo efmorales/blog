@@ -1,5 +1,5 @@
 ---
-title: Enzo Morales Blog
+title: Example Blog
 subtitle: Publishing with Quarto and nbdev
 listing:
   sort: "date desc"
